@@ -31,5 +31,4 @@ Communication is means for people to exchange messages. It has started since the
 
 ## Conclusion
 The main objective of the project is to develop a real-time Chat Application using react and stream. This application is easy to use and can be installed on mobile as well. This application also have many element of multimedia as text, Gif, File, Video, Emojy, Reaction and image. 
-
-So, "Let's" Chat is comfortable application and user friendly.  
+So, "Let's Chat" is comfortable application and user friendly.  
