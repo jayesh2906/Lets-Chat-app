@@ -24,7 +24,7 @@ Communication is means for people to exchange messages. It has started since the
 * User can create new groups and invite members to add in group.
 * User can see count of online users.
 * User can also edit the groups.
-* User can search any groups or users and start chatting with them.
+* User can search any group or user and start chatting.
 
 ### Responsive and Progressive Web App
 * This chat app is fully responsive and converted into progressive web app which can be used in mobile devices, Tabs, everywhere flexible.
