@@ -1,0 +1,21 @@
+{
+    "name": "Let's Chat",
+    "short_name": "let's chat",
+    "theme_color": "black",
+    "background_color": "black",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+  "icons": [
+    {
+      "src": "icon-192.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
